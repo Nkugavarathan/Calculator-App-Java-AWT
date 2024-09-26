@@ -1,19 +1,19 @@
-# Java Calculator App
+# 🔢 Java Calculator App
 
-## Overview
-This is a simple calculator application built using Java AWT (Abstract Window Toolkit). The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
+## 📖 Overview
+This is a simple calculator application built using **Java AWT** (Abstract Window Toolkit). The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## Features
-- **Addition (+)**
-- **Subtraction (-)**
-- **Multiplication (*)**
-- **Division (/)**
-- **Clear (C)**: Clears the current input.
-- **Equals (=)**: Computes the result of the current expression.
+## ✨ Features
+- ➕ **Addition (+)**
+- ➖ **Subtraction (-)**
+- ✖️ **Multiplication (*)**
+- ➗ **Division (/)**
+- ❌ **Clear (C)**: Clears the current input.
+- 🟰 **Equals (=)**: Computes the result of the current expression.
 
-## Technologies Used
-- **Java AWT (Abstract Window Toolkit)**: For building the GUI.
-- **Java Event Handling**: For managing user interactions with the buttons.
+## 🛠 Technologies Used
+- 🖥️ **Java AWT (Abstract Window Toolkit)**: For building the GUI.
+- 🖱️ **Java Event Handling**: For managing user interactions with the buttons.
 
 ## Demo Video
 [Download Project Demo Video](Demo.mp4)
